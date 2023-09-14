@@ -6,6 +6,7 @@
 
 <h2>Week1</h2>
 <h4>Making Wordle</h4>
+<p>Reference: https://www.youtube.com/watch?v=npvrAzxgTOQ</p>
 
 <br><br>
 
