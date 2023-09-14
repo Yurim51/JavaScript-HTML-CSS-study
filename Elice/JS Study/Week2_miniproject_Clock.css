@@ -1,0 +1,84 @@
+* {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.today {
+    margin-bottom: 20px;
+    font: 30px 'Times New Roman';
+}
+
+.time {
+    width: 500px;
+    height: 100px;
+    margin: 30px auto;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+    font: bold 80px 'Times New Roman';
+    background-color: rgb(136, 68, 5);
+    border-radius: 10px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+ul {
+    width: 100%;
+    list-style:none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+.timerbox {
+    width: 100%;
+    height: 20%;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    
+}
+
+.timerbox #timerbox1 {
+    width: 150px;
+    height:40px;
+    padding:20px;
+    background-color: #f1d2a9;
+}
+
+.timerbox #timerbox2 {
+    width:150px;
+    height:40px;
+    padding:20px;
+    background-color: rgb(241, 173, 84);
+    
+}
+
+.timerbox #timerbox3 {
+    width:150px;
+    height:40px;
+    padding:20px;
+    background-color: rgb(240, 146, 23);
+}
+
+@media (width <= 600px) {
+    .timerbox {
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+.button {
+    width: 100%;
+    margin: 10px 0 0 0;
+    display: flex;
+    justify-content: space-around;
+}
