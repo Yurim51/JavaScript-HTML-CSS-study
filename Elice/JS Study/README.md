@@ -12,3 +12,4 @@
 
 <h2>Week2</h2>
 <h4>Making Digital Clock & Timer</h4>
+<p>Reference: https://www.youtube.com/watch?v=9jangRuV9hg&list=PLFeNz2ojQZjvUzPLcWrenOYrcnFQdvJGm</p>
